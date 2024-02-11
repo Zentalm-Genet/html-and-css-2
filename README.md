@@ -8,9 +8,15 @@ In this lab exercise, we will re-create three different layouts using HTML and C
     - index.css: CSS file
     - An image file for reference
 
-* drill-2 folder - index.html: HTML file - index.css: CSS file - An image file for reference
+* drill-2 folder
+    - index.html: HTML file
+    - index.css: CSS file -
+    - An image file for reference
 
-* drill-3 folder - index.html: HTML file - index.css: CSS file - An image file for reference
+* drill-3 folder -
+    - index.html: HTML file
+    - index.css: CSS file -
+    - An image file for reference
 
 * our task is to replicate the layout displayed in the image using HTML and CSS.
 
